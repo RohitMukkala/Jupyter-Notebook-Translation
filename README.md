@@ -29,11 +29,11 @@ jupyter notebook "Different ways to translate.ipynb"
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/RohitMukkala/Jupyter-Notebook-Translation/tree/main
 ```
 2. Navigate into the cloned directory:
 ```bash
-cd repository-name
+cd Jupyter-Notebook-Translation
 ```
 3. Install the required dependencies listed in the Prerequisites section.
 
@@ -41,6 +41,6 @@ cd repository-name
 ```bash
 jupyter notebook
 ```
-Libraries Used
-googletrans: Free translation using the unofficial Google Translate API.
-mtranslate: A quick and easy-to-use translation library.
+## Libraries Used
+- googletrans: Free translation using the unofficial Google Translate API.
+- mtranslate: A quick and easy-to-use translation library.
