@@ -23,7 +23,7 @@ pip install notebook
 ```
 2. Open the notebook:
 ```bash
-jupyter notebook Different\ ways\ to\ translate.ipynb
+jupyter notebook "Different ways to translate.ipynb"
 ```
 ## Instructions
 
